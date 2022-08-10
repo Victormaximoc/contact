@@ -35,8 +35,8 @@ body {
   
   img.avatar {
     border-radius: 50%;
-    width: 6,90rem;
-    height: 6.,90rem;
+    width: 12rem;
+    height: 12rem;
     padding: 3.7px;
     border: var(--primary-color) solid 4px;
   }
