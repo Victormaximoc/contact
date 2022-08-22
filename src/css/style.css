@@ -1,21 +1,15 @@
-html {
-    /*variables*/
-    --bg-color: #edf2ff;
-    --text-color:#00082F;
-    --primary-color:#4263EB;
-    --primary-color-dark:#364FC7;
-}
+
 
 body.dark-blue {
     --bg-color: #00082F;
     --text-color: #FFFFFF;
 }
 
-body.pink {
-    --bg-color: #fff0f6;
-    --text-color: #1f000b ;
-    --primary-color: #D6336C  ;
-    --primary-color-dark: #A61E4D  ;
+body.blue {
+  --bg-color: #edf2ff;
+  --text-color:#00082F;
+  --primary-color:#4263EB;
+  --primary-color-dark:#364FC7;
 }
 body {
     background: var(--bg-color);
@@ -70,7 +64,7 @@ body {
     font-size: 1,14rem;
   
     margin-bottom: 1rem;
-    border-radius: 2,666rem;
+    border-radius: 3rem;
   
     transition: background 400ms;
   }
